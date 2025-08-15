@@ -20,7 +20,7 @@ Google Chrome may think this extension is unsafe but this is a false positive si
 ## Usage
 1. Go to any site or specific page
 2. If you are on Windows/Linux, click Control+Shift+C to open up devtools
-3. If you are on MacOS, click Command+Option+C to open up devtools
+3. If you are on MacOS, click Command+Option+I to open up devtools
 4. Now, in the tabs section, click >> and if you correctly installed the extension, NetZIP should appear
 5. Click on NetZIP
 6. Only if you have permission, click crawl page to download the specific page, crawl site to download the entire site, and stop to obviously stop
