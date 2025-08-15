@@ -5,6 +5,7 @@ A tool used to crawl the network tab and ZIP the contents.
 - Chromium (Google Chrome, Brave, etc)
 - Developer Mode
 - Extension access
+
 You cannot use Firefox and its forks.
 
 ## Installation
@@ -15,6 +16,7 @@ You cannot use Firefox and its forks.
 5. In the top-right, enable developer mode
 6. Click load unpacked
 7. Open the unzipped folder from step 3
+
 Google Chrome may think this extension is unsafe but this is a false positive since the extension needs to read the site to download it. (<strong>do not</strong> disable developer mode or else the extension will not work)
 
 ## Usage
@@ -24,6 +26,7 @@ Google Chrome may think this extension is unsafe but this is a false positive si
 4. Now, in the tabs section, click >> and if you correctly installed the extension, NetZIP should appear
 5. Click on NetZIP
 6. Only if you have permission, click crawl page to download the specific page, crawl site to download the entire site, and stop to obviously stop
+
 <strong>Any site downloaded must be credited.</strong>
 
 If you are using this tool you should add <strong>credit</strong> linking to this repository for making this proccess easier.
