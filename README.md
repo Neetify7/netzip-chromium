@@ -5,7 +5,7 @@ A tool used to crawl the network tab and ZIP the contents.
 - Chromium (Google Chrome, Brave, etc)
 - Developer Mode
 - Extension access
-You cannot use FireFox and its forks.
+You cannot use Firefox and its forks.
 
 ## Installation
 1. Go to https://github.com/Neetify7/netzip-chromium/releases/tag/release
